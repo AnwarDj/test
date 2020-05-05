@@ -1,0 +1,44 @@
+/* start login form */
+.login-form{
+    position: relative;
+    top:100px;
+    background: #eee;
+    padding: 50px;
+}
+.login-btn{
+    height: 50px;
+    border: 1px solid #5ba5eb;
+    background: #5ba5eb ;
+    color: #fff;
+    font-weight: bolder;
+}
+
+.login-btn:hover{
+    height: 50px;
+    border: 1px solid #398fdf;
+    background: #fff ;
+    color: #398fdf;
+    font-weight: bolder;
+}
+
+/* end login form */
+/* start navbar */
+.navbar{
+    background-color: #3b8fdf;
+}
+.navbar-default .navbar-nav>li>a{
+    color: #fff;
+    font-weight: bolder;
+    font-size: 17px;
+}
+.navbar-default .navbar-nav>li>a:hover{
+    color: #fff;
+    background-color: #2473bd;
+}
+/* end navbar */
+/*start home page */
+.test{
+    border:1px solid #fff;
+    height: 30px;
+}
+/* end home page */
